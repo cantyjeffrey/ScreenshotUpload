@@ -399,6 +399,7 @@
 				1F80F6441956FFD600925040 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1F80F6451956FFD600925040 /* Build configuration list for PBXNativeTarget "ScreenshotUploadTests" */ = {
 			isa = XCConfigurationList;
@@ -407,6 +408,7 @@
 				1F80F6471956FFD600925040 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
